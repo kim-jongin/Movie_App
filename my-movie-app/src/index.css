@@ -9,7 +9,7 @@ body {
 }
 
 .movie-container {
-  width: 250px;
+  width: 240px;
   margin: 15px;
   background-color: #373b69;
   color: whitesmoke;
@@ -37,3 +37,7 @@ body {
 .movie-info span {
   margin-left: 3px;
 }
+
+/*
+  API에서 제공하는 이미지 크기를 동일하게 설정해야함
+*/
